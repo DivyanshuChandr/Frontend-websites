@@ -48,7 +48,6 @@ gsap.from(".span",{
     delay:1,
     rotate:50,
     scale:0.001,
-    border: "0.2px solid white",
 })
 
 
